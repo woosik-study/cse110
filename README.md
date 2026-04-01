@@ -1,3 +1,3 @@
-# cse110
+# Woosik Kim
 
-Woosik's User Page
+CSE110 - Software Engineering
