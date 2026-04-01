@@ -1,3 +1,1 @@
-# Woosik Kim
-
-CSE110 - Software Engineering
+Woosik's User Page
